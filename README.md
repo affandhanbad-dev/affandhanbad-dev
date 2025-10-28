@@ -30,6 +30,9 @@ Building intelligent ML/DL applications — starting from data preprocessing and
 ### 🔧 Automation & Web Interaction
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 
+### 🌐 ML App Deployment
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
 ---
 
 ## 🛠️ Tools / IDEs
