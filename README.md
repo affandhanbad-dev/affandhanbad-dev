@@ -41,6 +41,8 @@ Building intelligent ML/DL applications — starting from data preprocessing and
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-21D789?style=for-the-badge&logo=pycharm&logoColor=white)
 ![Spyder](https://img.shields.io/badge/Spyder-FB0004?style=for-the-badge&logo=spyder-ide&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
+
 
 ---
 
