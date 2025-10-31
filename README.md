@@ -51,7 +51,8 @@ Building intelligent ML/DL applications — starting from data preprocessing and
 
 ---
 
-![Snake animation](https://github.com/affandhanbad-dev/affandhanbad-dev/blob/output/github-contribution-grid-snake.svg)
+
+![GitHub Snake Dark](https://github.com/affandhanbad-dev/affandhanbad-dev/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 
 
