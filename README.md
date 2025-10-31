@@ -51,5 +51,6 @@ Building intelligent ML/DL applications — starting from data preprocessing and
 
 ---
 
+![snake gif](https://github.com/Md-Affan/Md-Affan/blob/output/github-contribution-grid-snake.gif)
 
 
