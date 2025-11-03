@@ -1,5 +1,5 @@
 
-# 👋 Hi, I'm Md Affan
+# 👋 Hi, I'm Affan
 
 💡 Curently doing Machine Learning & Data Science  
 Building intelligent ML/DL applications — starting from data preprocessing and model training, to real-world deployment on cloud platforms or local environments for scalable and optimized performance.🚀
