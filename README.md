@@ -24,14 +24,19 @@ Building intelligent ML/DL applications — starting from data preprocessing and
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C8CB5?style=for-the-badge&logo=seaborn&logoColor=white)
 
-### 🔤 NLP Libraries
-![NLTK](https://img.shields.io/badge/NLTK-154E20?style=for-the-badge&logo=nltk&logoColor=white)
-
-### 🔧 Automation & Web Interaction
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-
-### 🌐 ML App Deployment
+### ⚡ Backend & Deployment / ML Apps
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Gradio](https://img.shields.io/badge/Gradio-1ABC9C?style=for-the-badge&logo=gradio&logoColor=white)<br>
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FF9900?style=for-the-badge&logo=huggingface&logoColor=white)
+![Docker Hub](https://img.shields.io/badge/Docker%20Hub-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+
+### 🛠️ Other Libraries & Tools
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-154E20?style=for-the-badge&logo=nltk&logoColor=white)
 
 ---
 
@@ -40,8 +45,9 @@ Building intelligent ML/DL applications — starting from data preprocessing and
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-21D789?style=for-the-badge&logo=pycharm&logoColor=white)
-![Spyder](https://img.shields.io/badge/Spyder-FB0004?style=for-the-badge&logo=spyder-ide&logoColor=white)
+![Spyder](https://img.shields.io/badge/Spyder-FB0004?style=for-the-badge&logo=spyder-ide&logoColor=white)<br>
 ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
+![Docker Desktop](https://img.shields.io/badge/Docker%20Desktop-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 
 ---
