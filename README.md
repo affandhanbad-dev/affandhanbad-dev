@@ -31,8 +31,8 @@ Building intelligent ML/DL applications — starting from data preprocessing and
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Gradio](https://img.shields.io/badge/Gradio-1ABC9C?style=for-the-badge&logo=gradio&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FF9900?style=for-the-badge&logo=huggingface&logoColor=white)
-![Docker Hub](https://img.shields.io/badge/Docker%20Hub-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+[![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/Affan-dev)
+[![Docker Hub](https://img.shields.io/badge/DockerHub-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://hub.docker.com/u/4ffan)
 ![Uvicorn](https://img.shields.io/badge/Uvicorn-20232A?style=for-the-badge&logo=uvicorn&logoColor=blue)
 
 
@@ -57,10 +57,9 @@ Building intelligent ML/DL applications — starting from data preprocessing and
 
 ---
 
-## 📫 Contact Me
+## 🔗 Contact me
 [![Email Badge](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:affandhanbad@gmail.com)
 
----
 
 
 
