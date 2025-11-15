@@ -34,9 +34,11 @@ Building intelligent ML/DL applications — starting from data preprocessing and
 [![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/Affan-dev)
 [![Docker Hub](https://img.shields.io/badge/DockerHub-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://hub.docker.com/u/4ffan)
 ![Uvicorn](https://img.shields.io/badge/Uvicorn-20232A?style=for-the-badge&logo=uvicorn&logoColor=blue)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 
-
-### 🧩 Utilities / Supporting Libraries
+### 🧩 MLOps / Monitoring / Utilities
+![Evidently](https://img.shields.io/badge/Evidently%20AI-4B32C3?style=for-the-badge&logo=evidently&logoColor=white)
+![DVC](https://img.shields.io/badge/DVC-945DD6?style=for-the-badge&logo=dvc&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![NLTK](https://img.shields.io/badge/NLTK-154E20?style=for-the-badge&logo=nltk&logoColor=white)
 ![Pydantic](https://img.shields.io/badge/Pydantic-efefef?style=for-the-badge&logo=pydantic&logoColor=E92063)
